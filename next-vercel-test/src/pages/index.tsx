@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Welcome to Expo + Next.js 👋 - Now The Branch!</Text>
+      <Text style={styles.text}>Welcome to Expo + Next.js 👋 - Now The Branch and with an .nowignore included!</Text>
     </View>
   );
 }
